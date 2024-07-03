@@ -12,7 +12,7 @@ This repository contains working implementations of cutting-edge algorithms and 
 - **HRNet:** High-Resolution Network (HRNet) implementation for detailed and accurate obstacle detection.
 - **MobileViT:** Mobile Vision Transformer (MobileViT) code for efficient and lightweight obstacle detection.
 - **Swin Transformer:** Swin Transformer implementation for hierarchical vision representation.
-- **Simulink Integration:** Utilization of Simulink for UAV obstacle avoidance, providing a comprehensive model for simulating and testing avoidance strategies.
+- **Simulink Integration:** Utilization of Simulink for UAV obstacle avoidance, using LiDAR sensors and providing a comprehensive model for simulating and testing avoidance strategies, with integration of the remaining algorithms.
 
 ## Additional Features
 
@@ -21,3 +21,4 @@ This repository contains working implementations of cutting-edge algorithms and 
 - **Modular Design:** Code is organized into modules for easy understanding, modification, and extension.
 - **Extensive Documentation:** Detailed documentation and examples to guide users through setup and usage.
 - **Cross-Platform Support:** Compatible with multiple platforms, including Windows, macOS, and Linux.
+
