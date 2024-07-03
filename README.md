@@ -28,4 +28,17 @@ https://in.mathworks.com/help/uav/ug/uav-obstacle-avoidance-in-simulink.html
 https://github.com/Sanjaykannavedhachalam/Obstacle-Avoidance-For-UAV/assets/134528840/b77d0e28-80ea-415c-b3da-13ef5919d0a9
 
 ## Sample Screenshots
+### Quadrant division of the Frame Using YOLO v8 Model
+![Screenshot 2024-06-29 095655](https://github.com/Sanjaykannavedhachalam/UAV-Obstacle-Avoidance-Algorithms/assets/134528840/f691a5a9-f72b-4da1-b79f-a05d07dcb79f)
+
+### Obstacle Detection Using SwinTransformers
+![Screenshot 2024-07-03 212951](https://github.com/Sanjaykannavedhachalam/UAV-Obstacle-Avoidance-Algorithms/assets/134528840/f04988d9-acca-4d71-a128-46517f07c5ca)
+
+### MATLAB Simulink
+![Screenshot 2024-06-30 094845](https://github.com/Sanjaykannavedhachalam/UAV-Obstacle-Avoidance-Algorithms/assets/134528840/6bfadf98-10ba-44ca-87c0-291ffccf38e6)
+
+### Edge Detection
+![Screenshot 2024-07-03 212046](https://github.com/Sanjaykannavedhachalam/UAV-Obstacle-Avoidance-Algorithms/assets/134528840/3e5c7bda-bae2-4480-9b3f-28d407cd4dcf)
+
+### Exception Handling in Obstacle Detection
 ![Logo](https://github.com/Sanjaykannavedhachalam/Obstacle-Avoidance-For-UAV/blob/main/Screenshot%202024-06-29%20095603.png)
